@@ -75,7 +75,7 @@ Search for an open or closed [Pull Request][pr] that relates to your submission.
 
 Please submit all pull requests to the [nutritionfactsorg/daily-dozen-android][daily-dozen-android] repository in the `develop` branch.
 
-As you're working on bug-fixes or features, please break them out into their own feature branches and open the [Pull Request][pr] against your feature branch. It makes it much easier to decipher down the road, as you open multiple Pull Requests over time, and makes it much easier for to approve pull requests quickly.
+As you're working on bug-fixes or features, please break them out into their own feature branches and open the [Pull Request][pr] against your feature branch. It makes it much easier to decipher down the road, as you open multiple Pull Requests over time, and makes it much easier to approve pull requests quickly.
 
 If you don't have a feature in mind, but would like to contribute back to the project, check out the [open issues][issues] and see if there are any you can tackle.
 
